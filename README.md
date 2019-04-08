@@ -61,3 +61,5 @@ To do it via UI, we use the
 
 
 Based on [this video](https://www.youtube.com/watch?v=Wy9q22isx3U).
+
+A Vagrant box to run this project can be [found here](https://github.com/DailyMatters/vagrant-vue-crash).
