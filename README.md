@@ -1,4 +1,5 @@
- is a progressive and performant **Javascript Framework** used for building interfaces (UIs) and frontend applications.
+## VueJS crash course - ToDoList app
+VueJs is a progressive and performant **Javascript Framework** used for building interfaces (UIs) and frontend applications.
 
 ### Why Vue?
 - Makes creating UIs and frontend applications much easier.
@@ -58,7 +59,10 @@ To do it via UI, we use the
 
 `vue ui` command. It will start the graphic interface in port 8000. This is basically a project manager. We can create new projects or import projects. Also see the already created projects. To serve a project using Vue UI, go to that project page, select the `Tasks` option, `Serve` and then `Run Task`. Not only it runs the application on port 8080, it also shows us different stats on the project, which is damn cool!
 
+Once again, if you want to use the in-built server to test your project use `npm run serve`.
+To build the static assets of the project use `npm run build`. These will be created in the `/dist` folder.
 
+----
 
 Based on [this video](https://www.youtube.com/watch?v=Wy9q22isx3U).
 
