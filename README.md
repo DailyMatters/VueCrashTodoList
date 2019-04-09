@@ -66,4 +66,6 @@ To build the static assets of the project use `npm run build`. These will be cre
 
 Based on [this video](https://www.youtube.com/watch?v=Wy9q22isx3U).
 
+Second part available [here](https://www.youtube.com/watch?v=5lVQgZzLMHc). Not implemented yet.
+
 A Vagrant box to run this project can be [found here](https://github.com/DailyMatters/vagrant-vue-crash).
