@@ -25,9 +25,8 @@
 					title: this.title,
 					completed: false
 				}
-				//Send to parent
+				
 				this.$emit('add-todo', newTodo);
-
 				this.title = '';
 			}
 		}
